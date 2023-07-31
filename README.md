@@ -9,3 +9,10 @@ This is the script I use to synchronize the contents of switchhosts in the host 
 
 这是我用来同步Windows宿主机的host中switchhosts内容的脚本
 
+
+
+
+---
+
+SwitchHosts: https://github.com/oldj/SwitchHosts
+
